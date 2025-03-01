@@ -4,8 +4,8 @@ based on genesis；focus on multi agent robotics task
 ## Initialization
 create conda environment
 ```
-conda create -n swarm_env python=3.12
-conda activate swarm-env
+conda create -n swarm_env_312 python=3.12
+conda activate swarm_env_312
 ```
 
 
